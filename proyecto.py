@@ -19,3 +19,5 @@ print('\n hola')
 print('\n hola')
 print('\n hola')
 print('\n hola')
+def hola():
+    print('\n hola')
